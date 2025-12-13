@@ -1,6 +1,4 @@
-// char string bluf[n];
-//cin>> string input man me- acgt highr num
-//sum per head - cout<<max sum
+
 #include <bits/stdc++.h>
 using namespace std;
 #define REP(i,a,b) for(int i=a;i<b;i++)
